@@ -1,0 +1,5 @@
+1. compare plots in same x axis
+2. change LSTM & error window
+3. cpu code exec time
+4. Lightweight LSTM code
+5. Difference, anomaly & sensor fault; square wave
