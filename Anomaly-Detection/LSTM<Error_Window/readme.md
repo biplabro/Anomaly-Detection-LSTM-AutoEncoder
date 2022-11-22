@@ -7,5 +7,5 @@ Workflow:
 * feed the new dataset into LSTM algorithm & 
 * see the anomay detection response
 
-LSTM window = 60 datapoints
+LSTM window = 60 datapoints,
 Error window = 200 datapoints
